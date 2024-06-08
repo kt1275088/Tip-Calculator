@@ -1,3 +1,6 @@
+![image](https://github.com/kt1275088/Tip-Calculator/assets/140021793/f57f2074-bf62-4553-b681-767634c6f3e9)
+
+
 Tip Calculator
 Description
 The Tip Calculator is a handy tool that helps users quickly calculate the tip and total amount for a bill. Simply enter the bill amount, choose the tip percentage, and the application will compute the tip and total amount for you. This app is perfect for use in restaurants and cafes, ensuring you always leave the right tip.
